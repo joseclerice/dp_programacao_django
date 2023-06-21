@@ -1,2 +1,1 @@
-def testsomething():
-    assert 1==1;
+print ('oi')
